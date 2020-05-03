@@ -9,6 +9,7 @@
 
 module.exports = function (/* ctx */) {
     return {
+		publicPath: process.env.NODE_ENV === "production" ? "/quasar-app/" : "/",
     // app boot file (/src/boot)
     // --> boot files are part of "main.js"
     // https://quasar.dev/quasar-cli/cli-documentation/boot-files
