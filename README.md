@@ -1,6 +1,4 @@
-# Quasar App (quasar-app)
-
-A Quasar Framework app
+# This app got deployed to gh-pages by [gh-pages-auto-deploy extension](https://github.com/Rolanddoda/quasar-ext-gh-pages-auto-deploy)
 
 ## Install the dependencies
 ```bash
